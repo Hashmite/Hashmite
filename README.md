@@ -3,7 +3,7 @@
 🤝 𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂
 
 <p>
-  <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-小虎同学-blue" alt="juejin"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Hker-同学-blue" alt="juejin"></a>
   <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
 </p>
 
