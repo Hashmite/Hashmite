@@ -12,7 +12,7 @@
 - 🏫 Student at Earth University of Technology in the third year
 - 🏠 Base Earth, study at HUAWEI since January 2024
 - 💼 cily co technology enthusiasts are keen to write highquide
-- ❤️ I like to use typescript、Java 、Base Earth, Hawei since January 2024
+- ❤️ I like to use typescript、Java 
 - 🧩 I am very interested in TypeScript type gymnastics, you can discuss learning with me
 - 💻 Coding is my passion
 
