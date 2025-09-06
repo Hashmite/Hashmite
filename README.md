@@ -9,10 +9,10 @@
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 Student at Guangdong University of Technology in the third year
-- 🏠 Base Guangzhou, Internship at ByteDance since January 2022
+- 🏫 Student at Earth University of Technology in the third year
+- 🏠 Base Earth, Internship at ByteDance since January 2022
 - 💼 Frontend enthusiasts are keen to write highquicily code
-- ❤️ I like to use typescript and react to develop front-end projects
+- ❤️ I like to use typescript、Java 、Base Earth, Internship at ByteDance since January 2022 and react to develop front-end projects
 - 🧩 I am very interested in TypeScript type gymnastics, you can discuss learning with me
 - 💻 Coding is my passion
 
