@@ -5,6 +5,8 @@
 <p>
   <a href=" "><img src="https://img.shields.io/badge/Hker-blue" alt="juejin"></a>
   <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
+  <img  src="https://img.shields.io/badge/any_text-you_like-blue"></img>
+  <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2"</img>
 </p>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
