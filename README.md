@@ -1,16 +1,15 @@
-<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 阿虎同学！</h2>
+<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 Hker！</h2>
 
 🤝 𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂
 
 <p>
-  <a href=" "><img src="https://img.shields.io/badge/Hker-同学-blue" alt="juejin"></a>
+  <a href=" "><img src="https://img.shields.io/badge/Hker-blue" alt="juejin"></a>
   <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
 </p>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
 - 🏫 Student at Earth University of Technology in the third year
-- 🏠 Base Earth, study at HUAWEI since January 2024
 - 💼 cily co technology enthusiasts are keen to write highquide
 - ❤️ I like to use typescript、Java 
 - 🧩 I am very interested in TypeScript type gymnastics, you can discuss learning with me
@@ -28,7 +27,7 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![esbuild](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=000&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
